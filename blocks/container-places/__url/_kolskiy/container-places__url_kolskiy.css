@@ -1,0 +1,15 @@
+.container-places__url.container-places__url_kolskiy {
+    padding: 20px 0 7px 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .container-places__url.container-places__url_kolskiy {
+        padding: 30px 0 6px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-places__url.container-places__url_kolskiy {
+        padding: 5px 0 5px 0;
+    }
+}

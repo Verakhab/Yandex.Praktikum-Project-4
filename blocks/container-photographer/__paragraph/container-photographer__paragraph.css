@@ -1,0 +1,24 @@
+.container-photographer__paragraph {
+    font-family: 'Inter-Regular';
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 23px;
+    margin-bottom: 15px;
+}
+
+@media screen and (max-width: 1024px) {
+    .container-photographer__paragraph {
+        margin-bottom: 19px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-photographer__paragraph {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 23px;
+        order: 2;
+        margin-top: 15px;
+        margin-bottom: 50px;
+    }
+}

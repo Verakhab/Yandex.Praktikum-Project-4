@@ -1,0 +1,46 @@
+@media screen and (max-width: 1024px) {
+    .container-places__title.container-places__title_zim-baykal {
+        padding: 11px 0 52px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-places__title.container-places__title_zim-baykal {
+        width: 94%;
+        font-size: 5.5vw;
+        letter-spacing: -1.1px;
+        line-height: 1.1;
+        padding: 22px 0 48px 0;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-places__title.container-places__title_zim-baykal {
+        font-size: 9vw;
+        letter-spacing: -1.1px;
+        line-height: 0.89;
+        padding: 0 0 35px 18px;
+    }
+}
+
+/*@media screen and (max-width: 365px) {
+    .container-places__title.container-places__title_zim-baykal {
+        
+        padding: 0 0 35px 18px;
+    }
+}*/
+
+@media screen and (max-width: 320px) {
+    .container-places__title.container-places__title_zim-baykal {
+        width: 94%;
+        font-size: 11vw;
+        letter-spacing: -1.9px;
+        line-height: 0.89;
+        padding: 0 0 39px 18px;
+    }
+}
+
+
+
+
+

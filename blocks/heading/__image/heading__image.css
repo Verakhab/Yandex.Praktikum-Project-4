@@ -1,0 +1,12 @@
+.heading__image {
+    width: 176.58px;
+    height: 52px;
+    background-image: url('__logo.svg');
+}
+
+@media screen and (max-width: 375px) {
+    .heading__image {
+        background-image: url('__logo-375.svg');
+        background-repeat: no-repeat;
+    }
+}

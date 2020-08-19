@@ -1,0 +1,31 @@
+@import url('./__img/cover__img.css');
+@import url('./__img-container/cover__img-container.css');
+
+.cover {
+    width: 82.2%;
+    margin: 0 auto 153px;
+}
+
+@media screen and (max-width: 1280px) {
+    .cover {
+        width: 92.5%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        margin: 0 auto 96px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .cover {
+        margin: 0 auto 55px;
+    }
+}

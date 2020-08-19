@@ -1,0 +1,26 @@
+.comments__container {
+    width: 82.2%;
+    display: grid;
+    grid-template-columns: repeat(3, 39.2%);
+    grid-column-gap: 19px;
+}
+
+@media screen and (max-width: 1024px) {
+    .comments__container {
+        grid-template-columns: repeat(3, 38.7%);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .comments__container {
+        width: 100%;
+        grid-template-columns: repeat(1, 54.7%);
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .comments__container {
+        grid-template-columns: repeat(1, 100.5%);
+    }
+}

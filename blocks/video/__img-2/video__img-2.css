@@ -1,0 +1,20 @@
+.video__img-2 {
+    height: 99%;
+    opacity: 1;
+}
+
+.video__img-2:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 1024px) {
+    .video__img-2 {
+        height: 99.1%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .video__img-2 {
+        height: 98.5%;
+    }
+}

@@ -1,0 +1,49 @@
+@import url('./_kolskiy/container-places__title_kolskiy.css');
+@import url('./_altay/container-places__title_altay.css');
+@import url('./_karelia/container-places__title_karelia.css');
+@import url('./_zim-baykal/container-places__title_zim-baykal.css');
+
+.container-places__title {
+    font-family: 'Inter-Bold';
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 65px;
+    padding: 9px 0 53px 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .container-places__title {
+        padding: 21px 0 48px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-places__title {
+        width: 66%;
+        font-weight: 900;
+        font-size: 42px;
+        line-height: 46px;
+        padding: 12px 0 50px 0;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-places__title {
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
+        padding: 14px 0 35px 21px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .container-places__title {
+        width: 77%;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
+        padding: 14px 0 35px 21px;
+    }
+}
+

@@ -1,0 +1,38 @@
+@import url('./_zi/container-places__paragraph-1_zi.css');
+@import url('./_k/container-places__paragraph-1_k.css');
+
+.container-places__paragraph-1 {
+    font-family: 'Inter-Regular';
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding: 48px 0 24px 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .container-places__paragraph-1 {
+        width: 101%;
+        padding: 43px 0 27px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-places__paragraph-1 {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 27px;
+        padding: 40px 0 25px 0;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-places__paragraph-1 {
+        width: 89.4%;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 27px;
+        padding: 21px 0 25px 16px;
+    }
+}

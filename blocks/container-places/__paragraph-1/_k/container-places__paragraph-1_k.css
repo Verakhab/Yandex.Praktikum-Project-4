@@ -1,0 +1,23 @@
+@media screen and (max-width: 1024px) {
+    .container-places__paragraph-1.container-places__paragraph-1_k {
+        padding: 48px 0 1px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-places__paragraph-1.container-places__paragraph-1_k {
+        padding: 45px 0 27px 0;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-places__paragraph-1.container-places__paragraph-1_k {
+        padding: 22px 0 1px 18px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .container-places__paragraph-1.container-places__paragraph-1_k {
+        padding: 21px 0 0 18px;
+    }
+}

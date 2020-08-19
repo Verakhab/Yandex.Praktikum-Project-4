@@ -1,0 +1,33 @@
+.trav-to-rus__paragraph {
+    width: 64.5%;
+    margin: 7px 0 0 0;
+    font-family: 'Inter-Regular';
+    font-weight: 100;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    align-self: flex-start
+}
+
+@media screen and (max-width: 1024px) {
+    .trav-to-rus__paragraph {
+        margin: 13px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .trav-to-rus__paragraph {
+        margin: 13px 0 0 24px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .trav-to-rus__paragraph {
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+        letter-spacing: 0.15em;
+        margin: 5px 0 0 16px;
+    }
+}

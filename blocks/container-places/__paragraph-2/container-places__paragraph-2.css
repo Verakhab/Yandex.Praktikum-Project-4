@@ -1,0 +1,37 @@
+@import url('./_k/container-places__paragraph-2_k.css');
+
+.container-places__paragraph-2 {
+    font-family: 'Inter-Regular';
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .container-places__paragraph-2 {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 27px;
+        padding: 1px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-places__paragraph-2 {
+        width: 92%;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 27px;
+        padding: 0 0 0 18px;
+        margin-bottom: -18px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .container-places__paragraph-2 {
+        width: 88%;
+    }
+}

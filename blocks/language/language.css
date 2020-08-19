@@ -1,0 +1,13 @@
+@import url('./__item/language__item.css');
+
+.language {
+    margin: 0;
+    padding: 20px 0 0 0;
+    display: flex;
+}
+
+@media screen and (max-width: 375px) {
+    .language {
+        padding: 16px 0 0 0;
+    }
+}

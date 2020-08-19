@@ -1,0 +1,33 @@
+.trav-to-rus__subtitle {
+    width: 65%;
+    text-align: center;
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 30px;
+    line-height: 36px;
+    margin: 0 0 71px 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .trav-to-rus__subtitle {
+        margin: 0 0 73px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .trav-to-rus__subtitle {
+        width: 87%;
+        margin: 0 0 72px 0;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .trav-to-rus__subtitle {
+        width: 91%;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 23px;
+        margin: 0 0 34px 0;
+    }
+}

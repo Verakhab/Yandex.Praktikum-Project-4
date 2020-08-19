@@ -1,0 +1,9 @@
+.container-places__url.container-places__url_karelia {
+    padding: 21px 0 7px 0;
+}
+
+@media screen and (max-width: 768px) {
+    .container-places__url.container-places__url_karelia {
+        padding: 2px 0 6px 0;
+    }
+}

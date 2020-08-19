@@ -1,0 +1,67 @@
+@import url('./__img-one/passage__img-one.css');
+@import url('./__img-two/passage__img-two.css');
+@import url('./__img-three/passage__img-three.css');
+@import url('./__img-four/passage__img-four.css');
+@import url('./__img-five/passage__img-five.css');
+@import url('./__img-six/passage__img-six.css');
+@import url('./__img-seven/passage__img-seven.css');
+@import url('./__img-eight/passage__img-eight.css');
+@import url('./__img-nine/passage__img-nine.css');
+@import url('./__img-ten/passage__img-ten.css');
+@import url('./__img-eleven/passage__img-eleven.css');
+@import url('./__img-twelve/passage__img-twelve.css');
+@import url('./__img/passage__img.css');
+
+.passage {
+    width: 82.2%;
+    display: grid;
+    grid-template-columns: repeat(4, 24%);
+    grid-template-rows: repeat(3, 187.7px);
+    grid-gap: 16px 16px;
+    margin: 0 auto 92px;
+}
+
+@media screen and (max-width: 1280px) {
+    .passage {
+        width: 92.5%;
+        grid-template-columns: repeat(4, 23.99%);
+        grid-template-rows: repeat(3, 187.8px);
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .passage {
+        width: 90.5%;
+        grid-template-columns: repeat(3, 32.35%);
+        grid-template-rows: repeat(4, 199.9px);
+        grid-gap: 14px 14px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .passage {
+        width: 93.5%;
+        grid-template-columns: repeat(2, 48.95%);
+        grid-template-rows: repeat(6, 234px);
+        grid-gap: 16px 16px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .passage {
+        width: 91.7%;
+        grid-template-columns: repeat(1, 100%);
+        grid-template-rows: repeat(12, 232px);
+        grid-gap: 15.8px 0;
+        margin: 0 auto 53px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .passage {
+        width: 90.5%;
+        grid-template-columns: repeat(1, 99.5%);
+        grid-template-rows: repeat(12, 192px);
+        grid-gap: 8px 0;
+    }
+}

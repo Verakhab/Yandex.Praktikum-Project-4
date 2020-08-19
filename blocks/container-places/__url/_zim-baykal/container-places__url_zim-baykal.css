@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+    .container-places__url.container-places__url_zim-baykal {
+        padding: 86px 0 4px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-places__url.container-places__url_zim-baykal {
+        padding: 8px 0 7px 0;
+    }
+}

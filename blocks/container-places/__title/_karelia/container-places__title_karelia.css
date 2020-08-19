@@ -1,0 +1,27 @@
+.container-places__title.container-places__title_karelia {
+    padding: 11px 0 54px 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .container-places__title.container-places__title_karelia {
+        padding: 12px 0 53px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-places__title.container-places__title_karelia {
+        padding: 13px 0 47px 0;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-places__title.container-places__title_karelia {
+        padding: 0 0 33px 18px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .container-places__title.container-places__title_karelia {
+        padding: 0 0 34px 18px;
+    }
+}

@@ -1,0 +1,27 @@
+.passage__img-six {
+    height: 100%;
+}
+
+/*@media screen and (max-width: 1024px) {
+    .passage__img-6 {
+        background-image: url('./__item_300.jpg')
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .passage__img-6 {
+        background-image: url('./__item_352.jpg');
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .passage__img-6 {
+        background-image: url('./__item_343.jpg');
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .passage__img-6 {
+        background-image: url('./__item_288.jpg');
+    }
+}*/

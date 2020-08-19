@@ -1,0 +1,18 @@
+.container-photographer__img {
+    width: 97px;
+    border-radius: 50px;
+    margin: 0 0 24px 0;
+}
+
+@media screen and (max-width: 768px) {
+    .container-photographer__img {
+        width: 97px;
+        margin: 0 auto 13px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container-photographer__img {
+        margin: 0 auto 14px;
+    }
+}
