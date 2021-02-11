@@ -1,19 +1,17 @@
 # Yandex.Praktikum-Project-4
 
-https://github.com/Verakhab/Yandex.Praktikum-Project-4
+Github: https://github.com/Verakhab/Yandex.Praktikum-Project-4
 
-Version: v.1.0.0
+gh-pages: https://verakhab.github.io/Yandex.Praktikum-Project-4/
 
 Project work #4
-Путешествия по России
 
-
-
+Version: v.2.0.0
 
 ## Описание Проекта
-__Используемые технологии:__ HTML, BEM, flexbox, flow, CSS Pseudo-classes,
-CSS Pseudo-elements, form, font, iframe, animation, transformation, @keyframes,
-Figma, PixelPerfect, адаптивная, кроссбраузерная вёрстка, @media.
+__Используемые технологии:__ HTML, BEM, flexbox, grid layout, positional, flow, CSS Pseudo-classes,
+CSS Pseudo-elements, fonts, iframe, animation, transformation, @keyframes,
+Figma, PerfectPixel, адаптивная, «резиновая» вёрстка, кроссбраузерная вёрстка, @media queries.
 
 ## Локальный запуск
   ```
