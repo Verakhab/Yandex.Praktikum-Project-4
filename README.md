@@ -9,6 +9,9 @@ Project work #4
 Version: v.2.0.0
 
 ## Описание Проекта
+
+Одностраничный сайт - Путешествия по России
+
 __Используемые технологии:__ HTML, BEM, flexbox, grid layout, positional, flow, CSS Pseudo-classes,
 CSS Pseudo-elements, fonts, iframe, animation, transformation, @keyframes,
 Figma, PerfectPixel, адаптивная, «резиновая» вёрстка, кроссбраузерная вёрстка, @media queries.
